@@ -1,8 +1,7 @@
 {
   "profiles": {
     "Run": {
-      "commandName": "Project",
-      "commandLineArgs": "< input.txt"
+      "commandName": "Project"
     }
   }
 }
